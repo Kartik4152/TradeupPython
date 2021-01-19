@@ -1,0 +1,151 @@
+#Sample Output
+Collection : The Bank Collection;
+Skin : Galil AR | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.82;
+TradeUpSkins (req 10) : UMP-45 | Carbon Fiber;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.08340000000000014;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : CZ75-Auto | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.78;
+TradeUpSkins (req 10) : UMP-45 | Carbon Fiber;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.04859999999999998;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : Desert Eagle | Meteorite;
+Condition : fn;
+CostOfSkin : 1.74;
+TradeUpSkins (req 10) : UMP-45 | Carbon Fiber;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.013800000000000034;
+FloatRequired : 0.38888888888888895;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : Galil AR | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.82;
+TradeUpSkins (req 10) : G3SG1 | Green Apple;
+CostOfTradeup : 1.4000000000000001;
+Profit (after tax): 0.1834;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : CZ75-Auto | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.78;
+TradeUpSkins (req 10) : G3SG1 | Green Apple;
+CostOfTradeup : 1.4000000000000001;
+Profit (after tax): 0.14859999999999984;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : Desert Eagle | Meteorite;
+Condition : fn;
+CostOfSkin : 1.74;
+TradeUpSkins (req 10) : G3SG1 | Green Apple;
+CostOfTradeup : 1.4000000000000001;
+Profit (after tax): 0.1137999999999999;
+FloatRequired : 0.38888888888888895;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : Galil AR | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.82;
+TradeUpSkins (req 10) : Glock-18 | Death Rattle;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.08340000000000014;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : CZ75-Auto | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.78;
+TradeUpSkins (req 10) : Glock-18 | Death Rattle;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.04859999999999998;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : Desert Eagle | Meteorite;
+Condition : fn;
+CostOfSkin : 1.74;
+TradeUpSkins (req 10) : Glock-18 | Death Rattle;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.013800000000000034;
+FloatRequired : 0.38888888888888895;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : Galil AR | Tuxedo;
+Condition : mw;
+CostOfSkin : 1.36;
+TradeUpSkins (req 10) : Glock-18 | Death Rattle;
+CostOfTradeup : 1.1;
+Profit (after tax): 0.08319999999999994;
+FloatRequired : 0.18749999999999997;
+ConditionRequired: ft;
+                            
+Collection : The Bank Collection;
+Skin : CZ75-Auto | Tuxedo;
+Condition : mw;
+CostOfSkin : 1.36;
+TradeUpSkins (req 10) : Glock-18 | Death Rattle;
+CostOfTradeup : 1.1;
+Profit (after tax): 0.08319999999999994;
+FloatRequired : 0.18749999999999997;
+ConditionRequired: ft;
+                            
+Collection : The Bank Collection;
+Skin : Desert Eagle | Meteorite;
+Condition : fn;
+CostOfSkin : 1.74;
+TradeUpSkins (req 10) : Glock-18 | Death Rattle;
+CostOfTradeup : 1.1;
+Profit (after tax): 0.41379999999999995;
+FloatRequired : 0.38888888888888895;
+ConditionRequired: ft;
+                            
+Collection : The Bank Collection;
+Skin : Galil AR | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.82;
+TradeUpSkins (req 10) : Nova | Caged Steel;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.08340000000000014;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : CZ75-Auto | Tuxedo;
+Condition : fn;
+CostOfSkin : 1.78;
+TradeUpSkins (req 10) : Nova | Caged Steel;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.04859999999999998;
+FloatRequired : 0.08750000000000001;
+ConditionRequired: mw;
+                            
+Collection : The Bank Collection;
+Skin : Desert Eagle | Meteorite;
+Condition : fn;
+CostOfSkin : 1.74;
+TradeUpSkins (req 10) : Nova | Caged Steel;
+CostOfTradeup : 1.5;
+Profit (after tax): 0.013800000000000034;
+FloatRequired : 0.38888888888888895;
+ConditionRequired: mw;
+                            
